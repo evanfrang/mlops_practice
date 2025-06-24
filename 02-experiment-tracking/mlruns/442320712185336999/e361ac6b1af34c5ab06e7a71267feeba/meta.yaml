@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops_practice/02-experiment-tracking/mlruns/442320712185336999/e361ac6b1af34c5ab06e7a71267feeba/artifacts
+end_time: 1750796388640
+entry_point_name: ''
+experiment_id: '442320712185336999'
+lifecycle_stage: active
+run_id: e361ac6b1af34c5ab06e7a71267feeba
+run_name: delightful-colt-735
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750796384906
+status: 3
+tags: []
+user_id: codespace
